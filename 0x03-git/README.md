@@ -1,1 +1,1 @@
-My readme for alx-zero_day project
+i just redited bash files for this repo
