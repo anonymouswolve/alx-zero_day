@@ -1,1 +1,1 @@
-i just redited bash files for this repo
+i just redited some bash files for further ado
